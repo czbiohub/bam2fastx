@@ -1,0 +1,370 @@
+@HD	VN:1.4	SO:coordinate
+@SQ	SN:chr1	LN:195471971
+@SQ	SN:chr10	LN:130694993
+@SQ	SN:chr11	LN:122082543
+@SQ	SN:chr12	LN:120129022
+@SQ	SN:chr13	LN:120421639
+@SQ	SN:chr14	LN:124902244
+@SQ	SN:chr15	LN:104043685
+@SQ	SN:chr16	LN:98207768
+@SQ	SN:chr17	LN:94987271
+@SQ	SN:chr18	LN:90702639
+@SQ	SN:chr19	LN:61431566
+@SQ	SN:chr1_GL456210_random	LN:169725
+@SQ	SN:chr1_GL456211_random	LN:241735
+@SQ	SN:chr1_GL456212_random	LN:153618
+@SQ	SN:chr1_GL456213_random	LN:39340
+@SQ	SN:chr1_GL456221_random	LN:206961
+@SQ	SN:chr2	LN:182113224
+@SQ	SN:chr3	LN:160039680
+@SQ	SN:chr4	LN:156508116
+@SQ	SN:chr4_GL456216_random	LN:66673
+@SQ	SN:chr4_JH584292_random	LN:14945
+@SQ	SN:chr4_GL456350_random	LN:227966
+@SQ	SN:chr4_JH584293_random	LN:207968
+@SQ	SN:chr4_JH584294_random	LN:191905
+@SQ	SN:chr4_JH584295_random	LN:1976
+@SQ	SN:chr5	LN:151834684
+@SQ	SN:chr5_JH584296_random	LN:199368
+@SQ	SN:chr5_JH584297_random	LN:205776
+@SQ	SN:chr5_JH584298_random	LN:184189
+@SQ	SN:chr5_GL456354_random	LN:195993
+@SQ	SN:chr5_JH584299_random	LN:953012
+@SQ	SN:chr6	LN:149736546
+@SQ	SN:chr7	LN:145441459
+@SQ	SN:chr7_GL456219_random	LN:175968
+@SQ	SN:chr8	LN:129401213
+@SQ	SN:chr9	LN:124595110
+@SQ	SN:chrM	LN:16299
+@SQ	SN:chrX	LN:171031299
+@SQ	SN:chrX_GL456233_random	LN:336933
+@SQ	SN:chrY	LN:91744698
+@SQ	SN:chrY_JH584300_random	LN:182347
+@SQ	SN:chrY_JH584301_random	LN:259875
+@SQ	SN:chrY_JH584302_random	LN:155838
+@SQ	SN:chrY_JH584303_random	LN:158099
+@SQ	SN:chrUn_GL456239	LN:40056
+@SQ	SN:chrUn_GL456367	LN:42057
+@SQ	SN:chrUn_GL456378	LN:31602
+@SQ	SN:chrUn_GL456381	LN:25871
+@SQ	SN:chrUn_GL456382	LN:23158
+@SQ	SN:chrUn_GL456383	LN:38659
+@SQ	SN:chrUn_GL456385	LN:35240
+@SQ	SN:chrUn_GL456390	LN:24668
+@SQ	SN:chrUn_GL456392	LN:23629
+@SQ	SN:chrUn_GL456393	LN:55711
+@SQ	SN:chrUn_GL456394	LN:24323
+@SQ	SN:chrUn_GL456359	LN:22974
+@SQ	SN:chrUn_GL456360	LN:31704
+@SQ	SN:chrUn_GL456396	LN:21240
+@SQ	SN:chrUn_GL456372	LN:28664
+@SQ	SN:chrUn_GL456387	LN:24685
+@SQ	SN:chrUn_GL456389	LN:28772
+@SQ	SN:chrUn_GL456370	LN:26764
+@SQ	SN:chrUn_GL456379	LN:72385
+@SQ	SN:chrUn_GL456366	LN:47073
+@SQ	SN:chrUn_GL456368	LN:20208
+@SQ	SN:chrUn_JH584304	LN:114452
+@SQ	SN:ERCC-00002	LN:1061
+@SQ	SN:ERCC-00003	LN:1023
+@SQ	SN:ERCC-00004	LN:523
+@SQ	SN:ERCC-00009	LN:984
+@SQ	SN:ERCC-00012	LN:994
+@SQ	SN:ERCC-00013	LN:808
+@SQ	SN:ERCC-00014	LN:1957
+@SQ	SN:ERCC-00016	LN:844
+@SQ	SN:ERCC-00017	LN:1136
+@SQ	SN:ERCC-00019	LN:644
+@SQ	SN:ERCC-00022	LN:751
+@SQ	SN:ERCC-00024	LN:536
+@SQ	SN:ERCC-00025	LN:1994
+@SQ	SN:ERCC-00028	LN:1130
+@SQ	SN:ERCC-00031	LN:1138
+@SQ	SN:ERCC-00033	LN:2022
+@SQ	SN:ERCC-00034	LN:1019
+@SQ	SN:ERCC-00035	LN:1130
+@SQ	SN:ERCC-00039	LN:740
+@SQ	SN:ERCC-00040	LN:744
+@SQ	SN:ERCC-00041	LN:1122
+@SQ	SN:ERCC-00042	LN:1023
+@SQ	SN:ERCC-00043	LN:1023
+@SQ	SN:ERCC-00044	LN:1156
+@SQ	SN:ERCC-00046	LN:522
+@SQ	SN:ERCC-00048	LN:992
+@SQ	SN:ERCC-00051	LN:274
+@SQ	SN:ERCC-00053	LN:1023
+@SQ	SN:ERCC-00054	LN:274
+@SQ	SN:ERCC-00057	LN:1021
+@SQ	SN:ERCC-00058	LN:1136
+@SQ	SN:ERCC-00059	LN:525
+@SQ	SN:ERCC-00060	LN:523
+@SQ	SN:ERCC-00061	LN:1136
+@SQ	SN:ERCC-00062	LN:1023
+@SQ	SN:ERCC-00067	LN:644
+@SQ	SN:ERCC-00069	LN:1137
+@SQ	SN:ERCC-00071	LN:642
+@SQ	SN:ERCC-00073	LN:603
+@SQ	SN:ERCC-00074	LN:522
+@SQ	SN:ERCC-00075	LN:1023
+@SQ	SN:ERCC-00076	LN:642
+@SQ	SN:ERCC-00077	LN:273
+@SQ	SN:ERCC-00078	LN:993
+@SQ	SN:ERCC-00079	LN:644
+@SQ	SN:ERCC-00081	LN:534
+@SQ	SN:ERCC-00083	LN:1022
+@SQ	SN:ERCC-00084	LN:994
+@SQ	SN:ERCC-00085	LN:844
+@SQ	SN:ERCC-00086	LN:1020
+@SQ	SN:ERCC-00092	LN:1124
+@SQ	SN:ERCC-00095	LN:521
+@SQ	SN:ERCC-00096	LN:1107
+@SQ	SN:ERCC-00097	LN:523
+@SQ	SN:ERCC-00098	LN:1143
+@SQ	SN:ERCC-00099	LN:1350
+@SQ	SN:ERCC-00104	LN:2022
+@SQ	SN:ERCC-00108	LN:1022
+@SQ	SN:ERCC-00109	LN:536
+@SQ	SN:ERCC-00111	LN:994
+@SQ	SN:ERCC-00112	LN:1136
+@SQ	SN:ERCC-00113	LN:840
+@SQ	SN:ERCC-00116	LN:1991
+@SQ	SN:ERCC-00117	LN:1136
+@SQ	SN:ERCC-00120	LN:536
+@SQ	SN:ERCC-00123	LN:1022
+@SQ	SN:ERCC-00126	LN:1118
+@SQ	SN:ERCC-00130	LN:1059
+@SQ	SN:ERCC-00131	LN:771
+@SQ	SN:ERCC-00134	LN:274
+@SQ	SN:ERCC-00136	LN:1033
+@SQ	SN:ERCC-00137	LN:537
+@SQ	SN:ERCC-00138	LN:1024
+@SQ	SN:ERCC-00142	LN:493
+@SQ	SN:ERCC-00143	LN:784
+@SQ	SN:ERCC-00144	LN:538
+@SQ	SN:ERCC-00145	LN:1042
+@SQ	SN:ERCC-00147	LN:1023
+@SQ	SN:ERCC-00148	LN:494
+@SQ	SN:ERCC-00150	LN:743
+@SQ	SN:ERCC-00154	LN:537
+@SQ	SN:ERCC-00156	LN:494
+@SQ	SN:ERCC-00157	LN:1019
+@SQ	SN:ERCC-00158	LN:1027
+@SQ	SN:ERCC-00160	LN:743
+@SQ	SN:ERCC-00162	LN:523
+@SQ	SN:ERCC-00163	LN:543
+@SQ	SN:ERCC-00164	LN:1022
+@SQ	SN:ERCC-00165	LN:872
+@SQ	SN:ERCC-00168	LN:1024
+@SQ	SN:ERCC-00170	LN:1023
+@SQ	SN:ERCC-00171	LN:505
+@SQ	SN:Cre_transgene	LN:1032
+@SQ	SN:Gfp_transgene	LN:729
+@SQ	SN:Tdtom_transgene	LN:1431
+@SQ	SN:zsGreen_transgene	LN:693
+@RG	ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1	SM:10X_P7_8	LB:MissingLibrary.1	PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1	PL:ILLUMINA
+@RG	ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:2	SM:10X_P7_8	LB:MissingLibrary.1	PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:2	PL:ILLUMINA
+@PG	PN:STAR	ID:STAR	VN:STAR_2.5.1b	CL:STAR   --runThreadN 4   --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star   --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq      --readNameSeparator space      --outStd SAM   --outSAMtype SAM      --outSAMunmapped Within      --outSAMorder PairedKeepInputOrder   --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1   SM:10X_P7_8   LB:MissingLibrary.1   PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1   PL:ILLUMINA      --outSAMmultNmax 18446744073709551615
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
+@CO	user command line: STAR --genomeDir /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/genome/cellranger/MM10-PLUS/star --readFilesIn /mnt/18c3ebea-2ee1-462b-a150-3dd614460481/data/hca/10X_P7_8/10X_P7_8/SC_RNA_COUNTER_CS/SC_RNA_COUNTER/EXTRACT_READS/fork0/chnk0/files/reads.fastq/1.fastq  --outSAMmultNmax -1 --runThreadN 4 --readNameSeparator space --outSAMunmapped Within --outSAMtype SAM --outStd SAM --outSAMorder PairedKeepInputOrder --outSAMattrRGline ID:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 SM:10X_P7_8 LB:MissingLibrary.1 PU:10X_P7_8:MissingLibrary:1:H2H5YDMXX:1 PL:ILLUMINA
+@CO	10x_bam_to_fastq:I1(BC:QT)
+@CO	10x_bam_to_fastq:R1(CR:CY,UR:UY,TR:TQ)
+@CO	10x_bam_to_fastq:R2(SEQ:QUAL)
