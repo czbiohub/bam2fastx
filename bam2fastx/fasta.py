@@ -1,17 +1,13 @@
 # Import modified 'os' module with LC_LANG set so click doesn't complain
-from .os_utils import os
+from .os_utils import os  # noqa: F401
 
+from collections import defaultdict
 
 import click
 
 
 DELIMITER = "X"
 FASTA_PREFIX = "aligned_sequences"
-
-
-from collections import defaultdict
-import os
-
 CELL_BARCODE = 'CB'
 UMI = 'UB'
 
@@ -55,11 +51,10 @@ def _pass_alignment_qc(alignment, barcodes):
     """Assert high quality mapping, QC-passing barcode and UMI of alignment"""
     high_quality_mapping = alignment.mapq == 255
     good_barcode = CELL_BARCODE in alignment.tags and \
-                   alignment.get_tag(CELL_BARCODE) in barcodes
+        alignment.get_tag(CELL_BARCODE) in barcodes
     good_umi = UMI in alignment.tags
 
-    pass_qc = high_quality_mapping and good_barcode and \
-              good_umi
+    pass_qc = high_quality_mapping and good_barcode and good_umi
     return pass_qc
 
 
@@ -141,7 +136,6 @@ def _write_one_cell_per_file(cell_sequences, output_folder, fasta_prefix):
     return filenames
 
 
-
 def write_cell_sequences(cell_sequences, output_folder,
                          one_cell_per_file=False, fasta_prefix=FASTA_PREFIX):
     if one_cell_per_file:
@@ -172,7 +166,8 @@ def bam_to_fasta(bam, barcodes, barcode_renamer, output_folder, delimiter="X",
 
     Returns
     -------
-
+    filenames : list
+        List of fasta filenames written
     """
 
     bam_filtered = (x for x in bam if _pass_alignment_qc(x, barcodes))
@@ -195,14 +190,13 @@ def bam_to_fasta(bam, barcodes, barcode_renamer, output_folder, delimiter="X",
                                 one_cell_per_file, fasta_prefix)
 
 
-
 @click.command()
 @click.argument("tenx_folder")
 @click.option('--all-cells-in-one-file/--one-cell-per-file', default=True,
               help="Create a single fasta, with each cell as a separate "
-                   "record, whose sequences are separated by the delimiter "\
-                   f"'{DELIMITER}' (default), or create many fasta files, "\
-                    "one per cell")
+                   "record, whose sequences are separated by the delimiter "
+                   f"'{DELIMITER}' (default), or create many fasta files, "
+                   "one per cell")
 @click.option('--barcode-renamer',
               help="Tab-separated file mapping barcodes (column 1) to renamed "
                    "ids (column 2)")
@@ -213,20 +207,25 @@ def bam_to_fasta(bam, barcodes, barcode_renamer, output_folder, delimiter="X",
 @click.option('--delimiter', default=DELIMITER)
 def fasta(tenx_folder, all_cells_in_one_file, barcode_renamer=None,
           output_folder=".", fasta_prefix=FASTA_PREFIX, delimiter=DELIMITER):
-    """
+    """Convert 10x bam to fasta of aligned sequences
 
+    Parameters
+    ----------
+    tenx_folder : str
+        Location of tenx folder containing possorted_genome_bam.bam and
+        barcodes.tsv files
     """
 
     barcodes, bam = read_10x_folder(tenx_folder)
     one_cell_per_file = not all_cells_in_one_file
 
     filenames = bam_to_fasta(bam, barcodes, barcode_renamer=barcode_renamer,
-                 output_folder=output_folder, delimiter=delimiter,
-                 fasta_prefix=fasta_prefix, one_cell_per_file=one_cell_per_file)
+                             output_folder=output_folder, delimiter=delimiter,
+                             fasta_prefix=fasta_prefix,
+                             one_cell_per_file=one_cell_per_file)
     if len(filenames) == 1:
         filename = filenames[0]
         click.echo(f"Wrote {filename}")
     else:
         n_files = len(filenames)
         click.echo(f"Wrote {n_files} fasta files in {output_folder}")
-

@@ -10,15 +10,18 @@ import pytest
 def fasta_folder(data_folder):
     return os.path.join(data_folder, "fasta")
 
+
 @pytest.fixture
 def all_cells_one_file(fasta_folder):
     from bam2fastx.fasta import FASTA_PREFIX
     return os.path.join(fasta_folder, "all-cells-in-one-file",
                         f"{FASTA_PREFIX}.fasta")
 
+
 @pytest.fixture
 def one_cell_per_file_folder(fasta_folder):
     return os.path.join(fasta_folder, "one-cell-per-file")
+
 
 @pytest.fixture
 def one_cell_per_file_listing(one_cell_per_file_folder):
@@ -48,10 +51,9 @@ def test_fasta_all_cells_one_file(tenx_folder, all_cells_one_file, tmpdir):
     assert test_fasta == true_fasta
 
 
-
 def test_fasta_one_cell_per_file(tenx_folder, one_cell_per_file_folder,
                                  one_cell_per_file_listing, tmpdir):
-    from bam2fastx.fasta import fasta, FASTA_PREFIX
+    from bam2fastx.fasta import fasta
 
     runner = CliRunner()
     result = runner.invoke(fasta, [tenx_folder, "--output-folder", tmpdir,
@@ -75,4 +77,3 @@ def test_fasta_one_cell_per_file(tenx_folder, one_cell_per_file_folder,
             test_fasta = f.readlines()
 
         assert test_fasta == true_fasta
-
