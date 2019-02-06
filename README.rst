@@ -14,7 +14,7 @@ What is `bam2fastx`?
 
 Convert 10x bam file to individual FAST{A,Q} files of aligned reads per cell
 
-* Free software: BSD license
+* Free software: MIT license
 * Documentation: https://olgabot.github.io/bam2fastx
 
 
