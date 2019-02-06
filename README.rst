@@ -2,8 +2,8 @@
 bam2fastx
 ===============================
 
-.. image:: https://img.shields.io/travis/olgabot/bam2fastx.svg
-        :target: https://travis-ci.org/olgabot/bam2fastx
+.. image:: https://img.shields.io/travis/czbiohub/bam2fastx.svg
+        :target: https://travis-ci.org/czbiohub/bam2fastx
 
 .. image:: https://img.shields.io/pypi/v/bam2fastx.svg
         :target: https://pypi.python.org/pypi/bam2fastx
