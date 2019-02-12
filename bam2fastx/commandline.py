@@ -15,7 +15,7 @@ settings = dict(help_option_names=['-h', '--help'])
              context_settings=settings)
 def cli():
     """
-    Aguamenti creates reflow batches for AWS jobs from experiment IDs
+    Bam2Fastx converts 10x bam files to fasta/fastq files
     """
     pass
 

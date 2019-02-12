@@ -77,3 +77,27 @@ def test_fasta_one_cell_per_file(tenx_folder, one_cell_per_file_folder,
             test_fasta = f.readlines()
 
         assert test_fasta == true_fasta
+
+
+def test_fasta_multithreaded(tenx_folder, all_cells_one_file, tmpdir):
+    from bam2fastx.fasta import fasta, FASTA_PREFIX
+
+    runner = CliRunner()
+    result = runner.invoke(fasta, [tenx_folder, "--output-folder", tmpdir,
+                                   "--processes", "2"])
+
+    # exit code of '0' means success!
+    assert result.exit_code == 0
+    assert 'Wrote' in result.output
+    assert 'aligned_sequences.fasta' in result.output
+
+    # Make sure the files are there
+    fasta = os.path.join(tmpdir, FASTA_PREFIX + ".fasta")
+    assert os.path.exists(fasta)
+
+    with open(all_cells_one_file) as f:
+        true_fasta = f.readlines()
+    with open(fasta) as f:
+        test_fasta = f.readlines()
+
+    assert test_fasta == true_fasta
