@@ -7,7 +7,6 @@ import multiprocessing
 
 # Third-party modules
 import click
-import pathos.multiprocessing as mp
 
 
 DELIMITER = "X"
@@ -120,17 +119,7 @@ def write_cell_sequences(cell_sequences, output_folder,
     return filenames
 
 
-def _parse_single_alignment(cell_sequences, alignment, renamer, delimiter="X"):
-    # Get barcode of alignment, looks like "AAATGCCCAAACTGCT-1"
-    barcode = alignment.get_tag(CELL_BARCODE)
-    renamed = renamer[barcode]
 
-    # Make a long string of all the cell sequences, separated
-    # by a non-alphabet letter
-    if renamed not in cell_sequences:
-        cell_sequences[renamed] = alignment.seq + delimiter + '\n'
-    else:
-        cell_sequences[renamed] += alignment.seq + delimiter + "\n"
 
 
 def _single_threaded_cell_sequences(bam, renamer, delimiter):
@@ -147,15 +136,31 @@ def _single_threaded_cell_sequences(bam, renamer, delimiter):
     return cell_sequences
 
 
+def _parse_single_alignment(cell_sequences, alignment, renamer,
+                            delimiter="X"):
+    # Get barcode of alignment, looks like "AAATGCCCAAACTGCT-1"
+    barcode = alignment.get_tag(CELL_BARCODE)
+    renamed = renamer[barcode]
+
+    # Make a long string of all the cell sequences, separated
+    # by a non-alphabet letter
+    if renamed not in cell_sequences:
+        cell_sequences[renamed] = alignment.seq + delimiter + '\n'
+    else:
+        cell_sequences[renamed] += alignment.seq + delimiter + "\n"
+    return cell_sequences
+
+
 def _multi_threaded_cell_sequences(bam, renamer, delimiter, processes):
     manager = multiprocessing.Manager()
 
     cell_sequences = manager.dict()
 
-    pool = mp.Pool(processes=processes)
-    pool.map(lambda x:
-             _parse_single_alignment(cell_sequences, x, renamer, delimiter),
-             bam)
+    pool = multiprocessing.Pool(processes=processes)
+    [pool.apply(_parse_single_alignment,
+             args=[cell_sequences, x, renamer, delimiter]) for x in bam]
+    pool.close()
+    pool.join()
     return cell_sequences
 
 
