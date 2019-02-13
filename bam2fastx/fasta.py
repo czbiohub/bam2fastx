@@ -124,6 +124,9 @@ def _single_threaded_cell_sequences(bam, renamer, delimiter):
     cell_sequences = defaultdict(str)
 
     for alignment in bam:
+        if not _pass_alignment_qc(alignment, renamer.keys()):
+            continue
+
         # Get barcode of alignment, looks like "AAATGCCCAAACTGCT-1"
         barcode = alignment.get_tag(CELL_BARCODE)
         renamed = renamer[barcode]
@@ -140,6 +143,12 @@ def _parse_single_alignment(params):
     alignment = params[1]
     renamer = params[2]
     delimiter = params[3]
+
+    # Need to check if passes alignment QC if not, doesn't have a barcode tag
+    # (among other things) and the next step will fail
+    if not _pass_alignment_qc(alignment, renamer.keys()):
+        return
+
     # Get barcode of alignment, looks like "AAATGCCCAAACTGCT-1"
     barcode = alignment.get_tag(CELL_BARCODE)
     renamed = renamer[barcode]
@@ -200,16 +209,16 @@ def bam_to_fasta(bam, barcodes, barcode_renamer, output_folder, delimiter="X",
         List of fasta filenames written
     """
 
-    bam_filtered = (x for x in bam if _pass_alignment_qc(x, barcodes))
+    # bam_filtered = (x for x in bam if _pass_alignment_qc(x, barcodes))
 
     renamer = _parse_barcode_renamer(barcodes, barcode_renamer)
 
     if processes == 1:
         cell_sequences = _single_threaded_cell_sequences(
-            bam_filtered, renamer, delimiter)
+            bam, renamer, delimiter)
     else:
         cell_sequences = _multi_threaded_cell_sequences(
-            bam_filtered, renamer, delimiter, processes)
+            bam, renamer, delimiter, processes)
 
     return write_cell_sequences(cell_sequences, output_folder,
                                 one_cell_per_file, fasta_prefix)
